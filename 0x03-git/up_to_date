@@ -1,1 +1,4 @@
-vi up_to_date
+git add .
+git commit -m 'comment'
+git pull
+git push
